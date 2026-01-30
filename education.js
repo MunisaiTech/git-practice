@@ -1,1 +1,1 @@
-let eduation={course:"MCA",location:"Nellore",year:2024};
+let eduation={course:"MCA",location:"Nellore, Andhra pradesh",year:2024};
