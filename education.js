@@ -1,0 +1,1 @@
+let eduation={course:"MCA",location:"Nellore",year:2024};
